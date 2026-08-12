@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ColdLifeStealSSN6.aternos.me",
-    "port": 38600,
+    "ip": "aurafrontiersmp.aternos.me",
+    "port": 28621,
     "version": "1.21.11",
     "try-creative": false
   },
